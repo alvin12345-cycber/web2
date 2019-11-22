@@ -1,11 +1,12 @@
 <html>
 <head>
 <title>Hello World</title>
-<Styli>
+<Style>
    button:hover{
-      barground-color: #4CAF50;
+      background-color: #4CAF50;
       color: white;
 }
+</Style>
 </head>
 <body bgcolor="#12344;">
      <marquee> <h1 style="font-family: couier;color red;">Alvin Romaguera</h1></marquee>
