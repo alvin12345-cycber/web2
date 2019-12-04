@@ -10,7 +10,7 @@
 </head>
 <body bgcolor="#12344;">
      <marquee> <h1 style="font-family: couier;color red;">Alvin Romaguera</h1></marquee>
-     <br><br><br><div style="border: 1px solid black;height: 500px; width: 300px;margin-left:500px;background-color:darkblue; border-radius: 20px; ">
+     <br><br><br><div style="border: 1px solid black;height: 500px; width: 300px;margin-left:500px;background-color:blue; border-radius: 20px; ">
      <center><h1 style="font-family: courier;"><?php echo "My Work ";?></h1>
      <br><a href="welcome.php"><button style="font-size: 20px;border-radius: 12px">Welcome</button></a>
      <br><br><a href="getmethod.php"><button style=" font-size: 20px; border-radius: 12px">getmethod</button></a>
